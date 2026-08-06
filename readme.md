@@ -6,7 +6,7 @@ A modern and responsive restaurant landing page built using **HTML5** and **CSS3
 
 ## 🌐 Live Demo
 
-Coming Soon...
+https://sk-code-program.github.io/velvet-grill/
 
 ---
 
